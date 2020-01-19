@@ -1,7 +1,7 @@
 package net.severo.entdes;
 /**
  * 
- * @author Profesor
+ * @author Luis Manuel Gomez Gonzalez
  *
  */
 public class Factorial {
